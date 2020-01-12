@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NBA-REPO/static/css/main.3ffab2af.chunk.css",
+    "main.js": "/NBA-REPO/static/js/main.915ae16b.chunk.js",
+    "main.js.map": "/NBA-REPO/static/js/main.915ae16b.chunk.js.map",
+    "runtime-main.js": "/NBA-REPO/static/js/runtime-main.bdf58d3e.js",
+    "runtime-main.js.map": "/NBA-REPO/static/js/runtime-main.bdf58d3e.js.map",
+    "static/js/2.6fe2f5a0.chunk.js": "/NBA-REPO/static/js/2.6fe2f5a0.chunk.js",
+    "static/js/2.6fe2f5a0.chunk.js.map": "/NBA-REPO/static/js/2.6fe2f5a0.chunk.js.map",
+    "index.html": "/NBA-REPO/index.html",
+    "precache-manifest.0d654e04e24633903fdfea6c72d6509b.js": "/NBA-REPO/precache-manifest.0d654e04e24633903fdfea6c72d6509b.js",
+    "service-worker.js": "/NBA-REPO/service-worker.js",
+    "static/css/main.3ffab2af.chunk.css.map": "/NBA-REPO/static/css/main.3ffab2af.chunk.css.map",
+    "static/js/2.6fe2f5a0.chunk.js.LICENSE": "/NBA-REPO/static/js/2.6fe2f5a0.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdf58d3e.js",
+    "static/js/2.6fe2f5a0.chunk.js",
+    "static/css/main.3ffab2af.chunk.css",
+    "static/js/main.915ae16b.chunk.js"
+  ]
+}
