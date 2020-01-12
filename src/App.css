@@ -1,0 +1,23 @@
+.games{
+
+    margin:0px;
+    padding:0px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+#styling{
+    display: flex;
+    justify-content: center;
+
+}
+#style{  
+        font-size:25px;
+
+}
+#styles{
+    font-size: 20px;
+}
+#division{
+    font-size: 15px;
+}
